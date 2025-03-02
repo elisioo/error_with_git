@@ -1,5 +1,6 @@
 Error with Git? Try these!
 
+ERROR 101
 ----------------------------------------------------------------------
 If you want to merge two repositories with different histories, Git may block it by default. To allow it:
 
@@ -14,6 +15,16 @@ press esc (escape)
 write :wq (write & quit)
 then press enter
 
+Then, you can now git add all you want.
 -----------------------------------------------------------------------
 
+EROR 102
+-------------------------------------------------------------------------
+
+
+
+
+
+
+------------------------------------------------------------------------
 
