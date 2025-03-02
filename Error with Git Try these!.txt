@@ -1,0 +1,19 @@
+Error with Git? Try these!
+
+----------------------------------------------------------------------
+If you want to merge two repositories with different histories, Git may block it by default. To allow it:
+
+"git pull origin main --allow-unrelated-histories"
+
+Take note:
+To write a commit message and get out of VI, follow these steps:
+
+press i (i for insert)
+write your merge message
+press esc (escape)
+write :wq (write & quit)
+then press enter
+
+-----------------------------------------------------------------------
+
+
