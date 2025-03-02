@@ -20,11 +20,15 @@ Then, you can now git add all you want.
 
 EROR 102
 -------------------------------------------------------------------------
-
-
-
-
-
+To remove a .git file:
+Step 1. Open Git Bash in the directory where your repository is located.
+Step 2.Run the following command to remove the .git folder:
+"rm -rf .git"
+Step 3.Verify that Git has been removed:
+"git status"
+If you see:
+"fatal: not a git repository (or any of the parent directories): .git"
+git file has been successfully deleted.
 
 ------------------------------------------------------------------------
 
